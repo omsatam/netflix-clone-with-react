@@ -16,11 +16,11 @@
 .nav__logo {
     height:60px;
   /* width: 60px; */
-  left: 20px;
+  padding-left: 20px;
   object-fit: contain;
 }
 .nav__avatar {
   width: 40px;
-  right: 30px;
+  padding-right: 30px;
   object-fit: contain;
 }
