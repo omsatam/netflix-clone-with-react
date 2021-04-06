@@ -3,7 +3,7 @@
   width: 100%;
   display: flex;
   top: 0;
-  padding:15px;
+  padding:5px 10px;
   justify-content: space-between;
   z-index: 1;
 
@@ -21,6 +21,6 @@
 }
 .nav__avatar {
   width: 40px;
-  padding-right: 30px;
+  padding-right: 20px;
   object-fit: contain;
 }
