@@ -20,6 +20,7 @@
   object-fit: contain;
 }
 .nav__avatar {
+  visibility:hidden;
   width: 40px;
   right: 30px;
   object-fit: contain;
